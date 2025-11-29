@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahim-ahmed10
-- 👀 Interested in web development and creating impactful applications.
+- 👀 Interested in web development and creating MERN stack applications.
 - 🌱 Currently learning Next.js, and exploring TypeScript.
 - 💞️ Looking to collaborate on web development projects, especially those focused on creating scalable and user-friendly platforms.
 - 📫 Reach me: faisalahmed001971@gmail.com
