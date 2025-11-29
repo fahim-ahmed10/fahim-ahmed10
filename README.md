@@ -3,7 +3,7 @@
 - 🌱 Currently learning Next.js, and exploring TypeScript.
 - 💞️ Looking to collaborate on web development projects, especially those focused on creating scalable and user-friendly platforms.
 - 📫 Reach me: faisalahmed001971@gmail.com
-- ⚡ Fun fact: I love solving complex problems... as long as there’s coffee involved! ☕💻
+- ⚡ Fun fact: I love solving complex problems...💻
 
 <!---
 fahim-ahmed10/fahim-ahmed10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
